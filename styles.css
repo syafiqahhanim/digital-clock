@@ -6,7 +6,7 @@ body {
   padding: 40px 0;
 }
 .clock {
-  display: inline-clock;
+  display: inline-block;
   font-size: 40px;
   padding: 20px;
   border: 5px solid #61dafb;
